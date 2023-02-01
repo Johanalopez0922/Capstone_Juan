@@ -1,2 +1,1 @@
-# Capstone_Juan
-Porfa lee los comentarios en el proyecto
+# Codigo-proyecto-20
